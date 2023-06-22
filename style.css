@@ -50,3 +50,42 @@ p{
   .about{
     border: chocolate;
   }
+  #Furmolario {
+
+    width: 400px;
+  
+    padding: 20px;
+  
+    color: white;
+  
+    margin: 0 auto;
+  
+    font-size: 20px;
+  
+  }
+  
+  
+  
+  
+  @media screen and (prefers-color-scheme: dark) {
+  
+    p {
+  
+      color: #fff;
+  
+    }
+  
+  }
+  
+  
+  
+  
+  @media screen and (prefers-color-scheme: light) {
+  
+    p {
+  
+      color: #000;
+  
+    }
+  
+  }
